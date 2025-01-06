@@ -5,6 +5,7 @@ Genealogy (the study and tracing of lines of descent) is well-established for tr
 The project's two main components are a family history database that will retain information on individuals such as their name, birth date, death date, gender, occupation, and many other things. The relationship will include parent-child relationships, marriage, and divorce. The media archive handles metadata for many types of media. We define "media" as images, but it might also refer to other types of media such as videos. It comprises the filename, date when the photo was taken, location, tags, and persons visible in the picture for each image in the collection.
 
 Key Features
+
 Family Tree Management: Enables users to input and maintain detailed ancestral and descendant data. Tracks relationships between individuals, offering a clear and interactive view of family connections.
 
 Image Integration: Links family tree entries to an image repository, allowing users to upload and associate pictures with specific individuals. Metadata tagging enables sorting and retrieval of images based on time periods or familial connections.
